@@ -1,0 +1,42 @@
+{
+  "item": {
+    "id": "com.migulu.katawa",
+    "restype": "quick_app",
+    "name": "片轮少女",
+    "description": "《片轮少女》中文版，小米手环 9 Pro 完整移植。原作 Four Leaf Studios《Katawa Shoujo》，本移植仅供个人学习交流。主角中井久夫因心脏病转入山嵜学园，在与五位女主的相处中，逐渐理解“不完美”的另一种意义。包含共通线与 5 条女主路线（笑美、华子、莉莉、琳、静音），支持存档、读档、流程图与 CG 画廊。由于平台限制，成人内容已移除。有问题加 QQ 群\n\n已适配机型：小米手环 9 Pro（待实测）。\n版权说明：原作 Four Leaf Studios《Katawa Shoujo》。本移植仅供个人学习交流，与 AstroBox、小米及其他设备厂商无关。© Four Leaf Studios",
+    "preview": [
+      "media/25410.jpg",
+      "media/25411.jpg",
+      "media/25412.jpg",
+      "media/25415.jpg"
+    ],
+    "icon": "media/25413.png",
+    "cover": "media/25409.jpg",
+    "author": [
+      {
+        "name": "bandbbs_2198485",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "QQ交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=3oJJ3OQy0%2BUgyF0txXmhdNYbpqfMI2P6hWw374nzaV8Vf%2BXqVA6aZI6e%2FMg9jeH1&busi_data=eyJncm91cENvZGUiOiI1OTAyNDg3NTEiLCJ0b2tlbiI6Im04UHRFc1d6WHZOWEhFTlNXdTloOWtJa1VwalpHUC8ycmMvR1poWTFXTEhjVks1QSthcGNDa3ZSQ1U1R2NJTXgiLCJ1aW4iOiIyNzM5MzM1NjA2In0%3D&data=hBNj3Bi74-V7rqWcZx8yvKgulCIIHtA1SHE_arwWot5G5WLegR5OrRhKboOSHZXUqnd8iU2h0322zl8dhWDF1g&svctype=4&tempid=h5_group_info",
+      "icon": "chat"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.migulu.katawa.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.migulu.katawa.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
