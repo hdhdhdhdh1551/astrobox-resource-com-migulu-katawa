@@ -36,6 +36,46 @@
       "version": "1.0.0",
       "file_name": "downloads/com.migulu.katawa.release.1.0.0.rpk",
       "versionCode": 1
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-圆表-少HCG.rpk",
+      "versionCode": 4
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-圆表-少HCG.rpk",
+      "versionCode": 4
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-圆表-少HCG.rpk",
+      "versionCode": 4
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-胶囊-少HCG.rpk",
+      "versionCode": 5
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-胶囊-全CG.rpk",
+      "versionCode": 3
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-胶囊-少HCG.rpk",
+      "versionCode": 5
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-胶囊-少HCG.rpk",
+      "versionCode": 5
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/片轮少女-胶囊-少HCG.rpk",
+      "versionCode": 5
     }
   },
   "ext": {}
